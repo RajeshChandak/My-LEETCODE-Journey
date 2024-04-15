@@ -1,4 +1,4 @@
-//                                                         Jay Shree Radhe
+//                                                      Jay Shree Radhe
 #include<iostream>
 using namespace std;
 
