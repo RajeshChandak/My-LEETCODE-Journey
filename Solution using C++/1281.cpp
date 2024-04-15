@@ -13,7 +13,7 @@ public:
             n/=10;
         }
         int answer;
-        //answer=pro>=sum?pro-sum:sum-pro;
+      //answer=pro>=sum?pro-sum:sum-pro;
         answer=pro-sum;
         return answer;
     }
